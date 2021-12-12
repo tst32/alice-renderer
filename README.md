@@ -1,10 +1,10 @@
 # alice-renderer-cf 
 
-### Cloudflare services (pages, workers etc) adoption of
+### Cloudflare services (pages, workers etc) adoptation for
 **if you don't know what it is, don't use this package, what you need is here [alice-render](https://www.npmjs.com/package/alice-renderer) **
 
 
-### Адоптация библиотеки alice-renderer для CloudFlare,  если вам нужен оригинал => [alice-render](https://www.npmjs.com/package/alice-renderer)
+### Адоптация библиотеки alice-renderer для CloudFlare, если не используете CF, то вам нужен оригинал => это [alice-render](https://www.npmjs.com/package/alice-renderer)
 
 [![Known Vulnerabilities](https://snyk.io/test/github/tst32/alice-renderer-cf/badge.svg?targetFile=package.json)](https://snyk.io/test/github/vitalets/alice-renderer?targetFile=package.json)
 [![npm](https://img.shields.io/npm/v/alice-renderer-cf.svg)](https://www.npmjs.com/package/alice-renderer)
@@ -880,3 +880,4 @@ exports.correctAnswer = score => reply`
 
 ## Лицензия
 MIT @ [Vitaliy Potapov](https://github.com/vitalets)
+contributor @ tst32
