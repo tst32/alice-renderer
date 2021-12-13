@@ -880,4 +880,12 @@ exports.correctAnswer = score => reply`
 
 ## Лицензия
 MIT @ [Vitaliy Potapov](https://github.com/vitalets)
-contributor @ tst32
+
+
+### Contributors / Внесение изменений
+
+If you want to contribute to alice-render-cf contact me with issue first. Here are project contributors:
+
+<!-- CONTRIBUTORS-START -->
+| [<img src="https://avatars.githubusercontent.com/u/23115742?v=4" width="100px;"/><br /><sub>Yurij</sub>](https://github.com/tst32)<br>[commits](https://github.com/tst32/alice-renderer-cf/commits?author=tst32) |
+<!-- CONTRIBUTORS-END -->
